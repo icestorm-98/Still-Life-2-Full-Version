@@ -238,4 +238,4 @@ This repository serves as the official landing page for Still Life 2. The softwa
 **Get the most recent version of Still Life 2 today!**
 
 ---
-**Last updated:** 2026-10-02 09:03:12 UTC
+**Last updated:** 2026-10-02 15:59:07 UTC
